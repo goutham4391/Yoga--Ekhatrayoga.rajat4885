@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jose De Groot Yin Yoga teacher</title>
+	<atom:link href="https://www.ekhartyoga.com/teachers/jose-de-groot/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.ekhartyoga.com/teachers/jose-de-groot</link>
+	<description>Ekhart Yoga</description>
+	<lastBuildDate>Sun, 10 May 2020 13:27:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>https://www.ekhartyoga.com/media/image/articles/favicon.png</url>
+	<title>Jose De Groot Yin Yoga teacher</title>
+	<link>https://www.ekhartyoga.com/teachers/jose-de-groot</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Yoga sequence to improve digestion</title>
+		<link>https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-to-improve-digestion</link>
+					<comments>https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-to-improve-digestion#respond</comments>
+		
+		<dc:creator><![CDATA[José de Groot]]></dc:creator>
+		<pubDate>Tue, 20 Mar 2018 12:43:00 +0000</pubDate>
+				<category><![CDATA[Wellbeing]]></category>
+		<category><![CDATA[Pain relief]]></category>
+		<category><![CDATA[Therapeutic]]></category>
+		<guid isPermaLink="false">/?p=2746</guid>
+
+					<description><![CDATA[<p>Stimulate your digestive system, improve circulation and diminish constipation, bloating and indigestion with this yoga sequence from José.</p>
+<p>The post <a rel="nofollow" href="https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-to-improve-digestion">Yoga sequence to improve digestion</a> appeared first on <a rel="nofollow" href="https://www.ekhartyoga.com">Ekhart Yoga</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-to-improve-digestion/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Yoga sequence for menstruation</title>
+		<link>https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-for-menstruation</link>
+					<comments>https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-for-menstruation#respond</comments>
+		
+		<dc:creator><![CDATA[José de Groot]]></dc:creator>
+		<pubDate>Wed, 25 Jan 2017 17:53:06 +0000</pubDate>
+				<category><![CDATA[Wellbeing]]></category>
+		<category><![CDATA[Pain relief]]></category>
+		<category><![CDATA[Therapeutic]]></category>
+		<guid isPermaLink="false">/?p=2039</guid>
+
+					<description><![CDATA[<p>Balance out your emotions and release tension in your hips, back and legs in this menstruation sequence from José. With printable download.</p>
+<p>The post <a rel="nofollow" href="https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-for-menstruation">Yoga sequence for menstruation</a> appeared first on <a rel="nofollow" href="https://www.ekhartyoga.com">Ekhart Yoga</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.ekhartyoga.com/articles/wellbeing/yoga-sequence-for-menstruation/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anat Geiger Yoga teacher</title>
+	<atom:link href="https://www.ekhartyoga.com/teachers/anat-geiger/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.ekhartyoga.com/teachers/anat-geiger</link>
+	<description>Ekhart Yoga</description>
+	<lastBuildDate>Mon, 30 May 2022 13:23:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>https://www.ekhartyoga.com/media/image/articles/favicon.png</url>
+	<title>Anat Geiger Yoga teacher</title>
+	<link>https://www.ekhartyoga.com/teachers/anat-geiger</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why should we study yoga philosophy?</title>
+		<link>https://www.ekhartyoga.com/articles/philosophy/why-should-we-study-yoga-philosophy</link>
+					<comments>https://www.ekhartyoga.com/articles/philosophy/why-should-we-study-yoga-philosophy#respond</comments>
+		
+		<dc:creator><![CDATA[Anat Geiger]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2020 11:23:41 +0000</pubDate>
+				<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[Academy]]></category>
+		<guid isPermaLink="false">https://ekhartyoga.com/?p=6778</guid>
+
+					<description><![CDATA[<p>Anat Geiger explains why delving deeper into the philosophy and concepts beneath the ‘physical’ practice of yoga is essential.</p>
+<p>The post <a rel="nofollow" href="https://www.ekhartyoga.com/articles/philosophy/why-should-we-study-yoga-philosophy">Why should we study yoga philosophy?</a> appeared first on <a rel="nofollow" href="https://www.ekhartyoga.com">Ekhart Yoga</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.ekhartyoga.com/articles/philosophy/why-should-we-study-yoga-philosophy/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What is functional yoga?</title>
+		<link>https://www.ekhartyoga.com/articles/practice/what-is-functional-yoga</link>
+					<comments>https://www.ekhartyoga.com/articles/practice/what-is-functional-yoga#respond</comments>
+		
+		<dc:creator><![CDATA[Anat Geiger]]></dc:creator>
+		<pubDate>Thu, 02 May 2019 16:37:00 +0000</pubDate>
+				<category><![CDATA[Practice]]></category>
+		<category><![CDATA[All levels]]></category>
+		<guid isPermaLink="false">/?p=2957</guid>
+
+					<description><![CDATA[<p>Anat Geiger on why functional yoga helps us celebrate our uniqueness.</p>
+<p>The post <a rel="nofollow" href="https://www.ekhartyoga.com/articles/practice/what-is-functional-yoga">What is functional yoga?</a> appeared first on <a rel="nofollow" href="https://www.ekhartyoga.com">Ekhart Yoga</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.ekhartyoga.com/articles/practice/what-is-functional-yoga/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Inner and outer strength</title>
+		<link>https://www.ekhartyoga.com/articles/practice/inner-and-outer-strength</link>
+		
+		<dc:creator><![CDATA[Anat Geiger]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2014 14:06:00 +0000</pubDate>
+				<category><![CDATA[Practice]]></category>
+		<category><![CDATA[Strengthening]]></category>
+		<guid isPermaLink="false">/?p=4139</guid>
+
+					<description><![CDATA[<p>Beloved EkhartYoga teacher, Anat Geiger, talks about the Yin and Yang aspects of strength.</p>
+<p>The post <a rel="nofollow" href="https://www.ekhartyoga.com/articles/practice/inner-and-outer-strength">Inner and outer strength</a> appeared first on <a rel="nofollow" href="https://www.ekhartyoga.com">Ekhart Yoga</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

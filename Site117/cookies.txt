@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	PHPSESSID	fsj3bflimhrahjkgjf7ec86ff4
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	customStrategy.state	5MUKs8Daq7ag6flSKdaQ7
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	redirect	%2Faccount%2Fpreferences
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	_refresh_token.customStrategy	false
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	PKCI_verifier	undefined
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	id_token	undefined
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	identity_access_token	undefined
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	identity_id_token	undefined
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	pub_usr_data	undefined
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	post_auth_redirect_url	undefined
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	i18n_redirected	en
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	strategy	customStrategy
+www.ekhartyoga.com	TRUE	/	FALSE	1999999999	_token.customStrategy	false
+ekhartwpproduction.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	6ae1e45cf55c53b88f1c7c331bedea13a2f20decb0390cd3edc029b3a43a70f6
+
